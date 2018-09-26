@@ -1,0 +1,60 @@
+{
+  "results": [{
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "noah",
+      "last": "macdonald"
+    },
+    "location": {
+      "street": "9122 concession road 23",
+      "city": "port elgin",
+      "state": "prince edward island",
+      "postcode": "Q1X 3P7",
+      "coordinates": {
+        "latitude": "-60.3413",
+        "longitude": "-77.9067"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "noah.macdonald@example.com",
+    "login": {
+      "uuid": "b9be4ab5-d5d9-4413-996c-b9937d9e5f6e",
+      "username": "happyrabbit740",
+      "password": "manila",
+      "salt": "ZwZJsgo1",
+      "md5": "facc3c5797b28e5a23e1eeb2ad72e95e",
+      "sha1": "7e0606d31a537a2eb46c2003295e8670aee7bf63",
+      "sha256": "c59e506f2e51881b4e2b514a1945565ee6c3b1cd80be7a0590bf64c7378184ec"
+    },
+    "dob": {
+      "date": "1976-11-15T17:52:48Z",
+      "age": 41
+    },
+    "registered": {
+      "date": "2012-04-30T09:53:56Z",
+      "age": 6
+    },
+    "phone": "485-839-4910",
+    "cell": "550-294-7938",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/20.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+    },
+    "nat": "CA"
+  }],
+  "info": {
+    "seed": "08b502bc2527ed47",
+    "results": 1,
+    "page": 1,
+    "version": "1.2"
+  }
+}
